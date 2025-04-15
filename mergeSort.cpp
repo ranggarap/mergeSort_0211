@@ -59,6 +59,19 @@ while (true)
             b[k]= arr [j] // 
             i++ ;
         }
+        else
+        {b[k] + arr [j];
+            j++;
+        }
+    while (j<+ high )// step
+     {   b[k] + arr [j];
+        j++;
+        k=k +1;
+    }
+    while (i<=mid)
+    {
+        b[k]= arr [i];
+
     }
 
 
